@@ -1,0 +1,14 @@
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.dll
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Application.pdb
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.dll
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Infra.Data.dll
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\EntityFramework.dll
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Domain.pdb
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Infra.Data.pdb
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\ProjetoModeloDDD.Infra.Data.dll.config
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\bin\Debug\EntityFramework.xml
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csprojAssemblyReference.cache
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CoreCompileInputs.cache
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.csproj.CopyComplete
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.dll
+C:\Projects\ProjetoModeloDDD\ProjetoModeloDDD\ProjetoModeloDDD.Application\obj\Debug\ProjetoModeloDDD.Application.pdb
